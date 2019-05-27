@@ -5,6 +5,10 @@
 > https://www.funtl.com/zh/apache-dubbo-codeing/FastDFS-%E5%AE%89%E8%A3%85.html
 
 
+
+# 开启端口
+`22122` ，`23000`
+
 # 启动容器
 ```shell
 docker-compose up -d
